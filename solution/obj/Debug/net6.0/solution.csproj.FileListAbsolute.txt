@@ -1,0 +1,15 @@
+D:\Аттестация\1блокРазработчик\solution\bin\Debug\net6.0\solution.exe
+D:\Аттестация\1блокРазработчик\solution\bin\Debug\net6.0\solution.deps.json
+D:\Аттестация\1блокРазработчик\solution\bin\Debug\net6.0\solution.runtimeconfig.json
+D:\Аттестация\1блокРазработчик\solution\bin\Debug\net6.0\solution.dll
+D:\Аттестация\1блокРазработчик\solution\bin\Debug\net6.0\solution.pdb
+D:\Аттестация\1блокРазработчик\solution\obj\Debug\net6.0\solution.csproj.AssemblyReference.cache
+D:\Аттестация\1блокРазработчик\solution\obj\Debug\net6.0\solution.GeneratedMSBuildEditorConfig.editorconfig
+D:\Аттестация\1блокРазработчик\solution\obj\Debug\net6.0\solution.AssemblyInfoInputs.cache
+D:\Аттестация\1блокРазработчик\solution\obj\Debug\net6.0\solution.AssemblyInfo.cs
+D:\Аттестация\1блокРазработчик\solution\obj\Debug\net6.0\solution.csproj.CoreCompileInputs.cache
+D:\Аттестация\1блокРазработчик\solution\obj\Debug\net6.0\solution.dll
+D:\Аттестация\1блокРазработчик\solution\obj\Debug\net6.0\refint\solution.dll
+D:\Аттестация\1блокРазработчик\solution\obj\Debug\net6.0\solution.pdb
+D:\Аттестация\1блокРазработчик\solution\obj\Debug\net6.0\solution.genruntimeconfig.cache
+D:\Аттестация\1блокРазработчик\solution\obj\Debug\net6.0\ref\solution.dll
