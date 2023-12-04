@@ -55,15 +55,15 @@ string[] ArrayCreation(int num)
 void PrintArrey(string[] ar)
 {
     System.Console.WriteLine();
-    for (int i = 0; i < ar.Length; i++)
+        for (int i = 0; i < ar.Length; i++)
     {
         Console.Write(ar[i] + "  ");
     }
-    System.Console.WriteLine();
+        System.Console.WriteLine();
 }
 
 string[] arrey = ArrayCreation(3);
 PrintArrey(arrey);
-Console.WriteLine("======================================");
+Console.WriteLine("===================================================================");
 Console.WriteLine("Новый массив из строк, длина которых меньше, либо равна 3 символам: ");
 PrintArrey(ResultArr(arrey));
